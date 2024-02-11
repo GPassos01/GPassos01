@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GPassos01
-- 👀 I’m interested in AI, IoT, Machine Learn, Robotic, Hardware, Mobile development
+- 👀 I’m interested in AI, IoT, Robotic, Hardware and Computers Networks
 - 🌱 I’m currently in college studing Computer Science on UNESP and studing python
 - 📫 How to reach me: gabriel.passos@unesp.br is my gmail
 
