@@ -57,23 +57,6 @@ tSou estudante de **Ciência da Computação na UNESP**, apaixonado por tecnolog
 
 ---
 
-### 🌟 Projetos em Destaque
-<div align="center">
-  
-| Projeto | Descrição | Tecnologias |
-|---|---|---|
-| [**ESP32-FloodMonitor**](https://github.com/GPassos01/ESP32-FloodMonitor) | Sistema embarcado de detecção de enchentes com análise de imagem local. | `ESP32`, `C`, `ESP-IDF`, `OpenCV` |
-| [**5G-Testbed**](https://github.com/GPassos01/5G-Testbed) | Testbed com núcleo 5G utilizando OpenAirInterface e gnbsim. | `Linux`, `Redes Móveis`, `Docker` |
-| [**MQTT-Distance-Sensor**](https://github.com/GPassos01/MQTT-Distance-Sensor) | Sensor ultrassônico com envio de dados via MQTT. | `MicroPython`, `MQTT`, `ESP32` |
-| [**MIPS-on-FPGA**](https://github.com/GPassos01/MIPS-on-FPGA) | Implementação de processador MIPS monociclo na DE2-115. | `VHDL`, `Quartus`, `FPGA` |
-
-<br>
-<p><em>🔧 Outros projetos estão em desenvolvimento — fique à vontade para acompanhar meus repositórios!</em></p>
-
-</div>
-
----
-
 ### 📞 Vamos Conversar?
 <div align="center">
   <p>
