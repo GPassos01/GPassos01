@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>Olá, eu sou o Gabriel Passos 👋</h3>
-  <p><em>Bem-vindo ao meu mundo <strong>8-bit</strong> ~ onde tecnologia e criatividade se encontram</em></p>
+  <p><em>Bem-vindo ao meu mundo onde tecnologia e criatividade se encontram</em></p>
 </div>
 
 ---
