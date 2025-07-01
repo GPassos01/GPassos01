@@ -12,11 +12,11 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-### 🚀 Sobre Mim
-tSou estudante de **Ciência da Computação na UNESP**, apaixonado por tecnologia que transforma realidades. Atualmente tenho me dedicado a projetos nas áreas de:
-- 📡 **IoT e Sistemas Embarcados**: focado em aplicações eficientes usando ESP32, C e redes móveis.
-- 🧠 **Visão Computacional e C em dispositivos embarcados**: análise de imagens para detecção de enchentes em tempo real.
-- 🌍 **Redes Móveis (4G/5G)**: testbeds com OpenAirInterface, gnbsim e núcleo de rede.
+### Atividade
+Atualmente tenho me dedicado a projetos nas áreas de:
+- **IoT e Sistemas Embarcados**: focado em aplicações eficientes usando ESP32, C e redes móveis.
+- **Visão Computacional e C em dispositivos embarcados**: análise de imagens para detecção de enchentes em tempo real.
+- **Redes Móveis (4G/5G)**: testbeds com OpenAirInterface, gnbsim e núcleo de rede.
 
 ---
 
@@ -47,11 +47,11 @@ tSou estudante de **Ciência da Computação na UNESP**, apaixonado por tecnolog
 ### 🎓 Formação Acadêmica
 <div align="center">
   <p>
-    📚 <strong>Bacharelando em Ciência da Computação</strong>
+    <strong>Bacharelando em Ciência da Computação</strong>
     <br>
-    🏛️ <i>Universidade Estadual Paulista (UNESP)</i>
+    <i>Universidade Estadual Paulista (UNESP)</i>
     <br>
-    📅 <i>Previsão de conclusão: Dezembro de 2025</i>
+    <i>Previsão de conclusão: Dezembro de 2025</i>
   </p>
 </div>
 
