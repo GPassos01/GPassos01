@@ -10,39 +10,15 @@
   <p><em>Bem-vindo ao meu mundo onde tecnologia e criatividade se encontram</em></p>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 ### 🚀 Sobre Mim
-Sou estudante de **Ciência da Computação na UNESP**, apaixonado por tecnologia que transforma realidades. Tenho me dedicado a projetos nas áreas de:
+tSou estudante de **Ciência da Computação na UNESP**, apaixonado por tecnologia que transforma realidades. Atualmente tenho me dedicado a projetos nas áreas de:
 - 📡 **IoT e Sistemas Embarcados**: focado em aplicações eficientes usando ESP32, C e redes móveis.
 - 🧠 **Visão Computacional e C em dispositivos embarcados**: análise de imagens para detecção de enchentes em tempo real.
-- ⚙️ **Arquitetura de Computadores e FPGA**: desenvolvimento de processadores MIPS na prática.
 - 🌍 **Redes Móveis (4G/5G)**: testbeds com OpenAirInterface, gnbsim e núcleo de rede.
 
-Tenho experiência prática com **ESP-IDF, MQTT, Linux, MicroPython, C, Python e Bash**, e estou sempre buscando novos aprendizados, tanto técnicos quanto humanos.
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-### 🎯 Áreas de Interesse
-- 🌐 **Internet das Coisas (IoT)**  
-  *Desenvolvo sistemas que conectam sensores embarcados com redes móveis e protocolos eficientes como MQTT, visando aplicações reais de monitoramento.*
-
-- 🧱 **Sistemas Embarcados com ESP32**  
-  *Utilizo C e ESP-IDF para criar soluções robustas e otimizadas, como análise de imagem embarcada e controle de sensores.*
-
-- 🖧 **Redes e Comunicações sem fio**  
-  *Experiência com BLE, MQTT, Wi-Fi sniffer e testes com núcleo de redes 5G. Foco em transmissão eficiente e monitoramento remoto.*
-
-- 🧠 **Visão Computacional em Dispositivos Limitados**  
-  *Desenvolvendo sistemas que realizam pré-processamento de imagens embarcado com baixo custo energético.*
-
-- ⚙️ **Hardware e Arquitetura de Computadores**  
-  *Projetos com VHDL, FPGA (DE2-115), organização de processadores MIPS monociclo, CPI e frequência.*
-
-- 🤝 **Educação e Extensão Universitária**  
-  *Participo de projetos que ensinam informática para a população carente, unindo inclusão digital e ensino técnico.*
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ### 🛠️ Tecnologias & Ferramentas
 <div align="center">
@@ -58,27 +34,20 @@ Tenho experiência prática com **ESP-IDF, MQTT, Linux, MicroPython, C, Python e
   </p>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ### 📊 Estatísticas do GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GPassos01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPassos01&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GPassos01/GPassos01/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GPassos01/GPassos01/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GPassos01/GPassos01/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ### 🎓 Formação Acadêmica
 <div align="center">
   <p>
-    📚 <strong>Bacharelado em Ciência da Computação</strong>
+    📚 <strong>Bacharelando em Ciência da Computação</strong>
     <br>
     🏛️ <i>Universidade Estadual Paulista (UNESP)</i>
     <br>
@@ -86,7 +55,7 @@ Tenho experiência prática com **ESP-IDF, MQTT, Linux, MicroPython, C, Python e
   </p>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ### 🌟 Projetos em Destaque
 <div align="center">
@@ -103,7 +72,7 @@ Tenho experiência prática com **ESP-IDF, MQTT, Linux, MicroPython, C, Python e
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ### 📞 Vamos Conversar?
 <div align="center">
@@ -125,6 +94,4 @@ Tenho experiência prática com **ESP-IDF, MQTT, Linux, MicroPython, C, Python e
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/main/pixel-art-cat.gif" alt="Pixel Cat" width="100">
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
