@@ -20,7 +20,7 @@ Atualmente tenho me dedicado a projetos nas áreas de:
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 <div align="center">
   <p>
     <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
@@ -36,7 +36,7 @@ Atualmente tenho me dedicado a projetos nas áreas de:
 
 ---
 
-### 📊 Estatísticas do GitHub
+### Estatísticas do GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GPassos01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPassos01&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -44,7 +44,7 @@ Atualmente tenho me dedicado a projetos nas áreas de:
 
 ---
 
-### 🎓 Formação Acadêmica
+### Formação Acadêmica
 <div align="center">
   <p>
     <strong>Bacharelando em Ciência da Computação</strong>
@@ -57,7 +57,7 @@ Atualmente tenho me dedicado a projetos nas áreas de:
 
 ---
 
-### 📞 Vamos Conversar?
+### Vamos Conversar?
 <div align="center">
   <p>
     <a href="mailto:gabriel.passos@unesp.br">
