@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Work%20Culture%20(HD%20Visuals)/Night%20Chill.gif" alt="Lo-fi Coding" width="100%">
+  <img src="assets/banner.gif" alt="BannerBemVindo" width="100%"/>
 </div>
+
 
 <br>
 
