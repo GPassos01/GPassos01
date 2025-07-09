@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="assets/banner.gif" alt="BannerBemVindo" width="100%"/>
-</div>
-
-
 <br>
 
 <div align="center">
