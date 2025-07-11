@@ -9,7 +9,7 @@
 **Bacharelando em Ciência da Computação** na Universidade Estadual Paulista (UNESP) - Previsão de conclusão: Dezembro de 2025
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td width="50%" align="left">
         <h3>Foco Atual</h3>
@@ -31,8 +31,8 @@
       </td>
       <td width="50%" align="center">
         <h3>Estatísticas do GitHub</h3>
-        <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=GPassos01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true"/>
-        <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPassos01&layout=compact&langs_count=7&theme=tokyonight"/>
+        <img height="180em" width="75%" src="https://github-readme-stats.vercel.app/api?username=GPassos01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true"/>
+        <img height="180em" width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPassos01&layout=compact&langs_count=7&theme=tokyonight"/>
       </td>
     </tr>
   </table>
