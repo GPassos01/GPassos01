@@ -9,7 +9,7 @@
 **Bacharelando em Ciência da Computação** na Universidade Estadual Paulista (UNESP) - Previsão de conclusão: Dezembro de 2025
 
 <!-- <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api?username=GPassos01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true"/> -->
-<img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPassos01&layout=compact&langs_count=7&theme=tokyonight"/>
+<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPassos01&layout=compact&langs_count=7&theme=tokyonight"/>
 
 ### Foco Atual
 <li align="left" width="50%"><strong>IoT e Sistemas Embarcados</strong>: ESP32, C e redes móveis</li>
@@ -27,8 +27,8 @@
 <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 
 
-### Contato
 <div align="center">
+<h3> Contato </h3>
   <p>
     <a href="mailto:gabriel.passos@unesp.br">
       <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
