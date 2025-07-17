@@ -8,35 +8,24 @@
 ### Sobre Mim
 **Bacharelando em Ciência da Computação** na Universidade Estadual Paulista (UNESP) - Previsão de conclusão: Dezembro de 2025
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="left">
-        <h3>Foco Atual</h3>
-        <ul style="text-align: left;">
-          <li><strong>IoT e Sistemas Embarcados</strong>: ESP32, C e redes móveis</li>
-          <li><strong>Visão Computacional</strong>: análise de imagens para detecção de enchentes em tempo real</li>
-          <li><strong>Redes Móveis (4G/5G)</strong>: testbeds com OpenAirInterface, gnbsim e núcleo de rede</li>
-        <h3>Tecnologias</h3>
-        <p>
-          <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
-          <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-          <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-          <img src="https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
-          <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-          <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-          <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-          <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-        </ul>
-      </td>
-      <td width="50%" align="center">
-        <h3>Estatísticas do GitHub</h3>
-        <img height="180em" width="75%" src="https://github-readme-stats.vercel.app/api?username=GPassos01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true"/>
-        <img height="180em" width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPassos01&layout=compact&langs_count=7&theme=tokyonight"/>
-      </td>
-    </tr>
-  </table>
-</div>
+<!-- <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api?username=GPassos01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true"/> -->
+<img align="right" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPassos01&layout=compact&langs_count=7&theme=tokyonight"/>
+
+### Foco Atual
+<li align="left" width="50%"><strong>IoT e Sistemas Embarcados</strong>: ESP32, C e redes móveis</li>
+<li align="left width="50%"><strong>Visão Computacional</strong>: análise de imagens para detecção de enchentes em tempo real</li>
+<li align="left width="50%"><strong>Redes Móveis (4G/5G)</strong>: testbeds com OpenAirInterface, gnbsim e núcleo de rede</li>
+
+### Tecnologias
+<code><img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"></code>
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+<img src="https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"><br>
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+
 
 ### Contato
 <div align="center">
