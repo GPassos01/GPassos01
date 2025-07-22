@@ -1,46 +1,78 @@
+# 💜 Olá, meu nome é Gabriel!
+<p align="left">
+  Ciêntista Computacional em formação, comprometido em criar soluções inovadoras e com propósito. <br>
+</p>
+
+## Sobre mim
+
+- 🎓 Graduando em Ciências da Computação na UNESP.
+- 📚 Estudando: Sistemas Embarcados, C/C++, Python, Desenvolvimento Fullstack(spring/react) e Kotlin.
+- 🌍 Explorando novas formas de fazer a diferença.
+
+---
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GPassos01/GPassos01/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GPassos01/GPassos01/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GPassos01/GPassos01/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+---
+
+
+
+## ⭐ GitHub Stats
+<a href="https://github.com/eduardavieira-dev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GPassos01&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPassos01&layout=compact&langs_count=6&theme=radical"/>
+
+## Tecnologias e linguagens 💻
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,docker,python,sql)](https://skillicons.dev)
+
+### 🚀 Frameworks e bibliotecas
+[![My Skills](https://skillicons.dev/icons?i=react,spring,mysql,postgres,kotlin)](https://skillicons.dev)
+
+### 🛠️ Ferramentas de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode)](https://skillicons.dev)
+
+
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+  Desenvolvo uma pesquisa científica com ESP32-CAM na area de IoT com visão computacional gerando soluções para monitoramento e prevenção de enchentes urbanas. Tenho, ainda, estudado paralelamente <strong>JavaScript</strong>, com foco em <strong>React.js</strong> para o front-end e <strong>Spring Boot</strong> para o back-end. Também venho explorando tecnologias como <strong>Kotlin</strong>, <strong>PostgreSQL</strong>, <strong>MySQL</strong> e <strong>Docker</strong>, aplicando esses conhecimentos em projetos acadêmicos e pessoais que fazem parte do meu portfólio. <br><br>
+  Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
+</p>
+
+<p align="left">
+
+</p>
+
+<p align="left">
+  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conteúdo no Instagram! 💌✨
+</p>
+
+<p align="left">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gabriel.passos@unesp.br" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/gabriel-passos26/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+</p>
+
 <div align="center">
-  <h3>Olá, eu sou o Gabriel Passos 👋</h3>
-  <p><em>Bem-vindo ao meu mundo onde tecnologia e criatividade se encontram</em></p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gpassos01.gpassos01&left_color=darkviolet&right_color=orchid" width="80" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-
-### Sobre Mim
-**Bacharelando em Ciência da Computação** na Universidade Estadual Paulista (UNESP) - Previsão de conclusão: Dezembro de 2025
-
-<!-- <img align="right" width="30%" src="https://github-readme-stats.vercel.app/api?username=GPassos01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true"/> -->
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPassos01&layout=compact&langs_count=7&theme=tokyonight"/>
-
-### Foco Atual
-<li align="left" width="50%"><strong>IoT e Sistemas Embarcados</strong>: ESP32, C e redes móveis</li>
-<li align="left width="50%"><strong>Visão Computacional</strong>: análise de imagens para detecção de enchentes em tempo real</li>
-<li align="left width="50%"><strong>Redes Móveis (4G/5G)</strong>: testbeds com OpenAirInterface, gnbsim e núcleo de rede</li>
-
-### Tecnologias
-<code><img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"></code>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-<img src="https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32"><br>
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
-
-
 <div align="center">
-<h3> Contato </h3>
-  <p>
-    <a href="mailto:gabriel.passos@unesp.br">
-      <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://linkedin.com/in/seu-usuario-linkedin">
-      <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://github.com/GPassos01">
-      <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    </a>
-  </p>
-  <p><em>Aberto para colaborações, pesquisa e projetos open source!</em></p>
+  
+  [![Eduarda Vieira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gpassos01&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  <img src="https://streak-stats.demolab.com?user=gpassos01&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
+  <img src="https://github-profile-trophy.vercel.app?username=gpassos01&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
