@@ -1,5 +1,5 @@
-# 💜 Olá, meu nome é Gabriel!
-<p align="left">
+<h1 align="center"> Olá, meu nome é Gabriel!</h1>
+<p align="center">
   Ciêntista Computacional em formação, comprometido em criar soluções inovadoras e com propósito. <br>
 </p>
 
@@ -68,7 +68,7 @@
 
 <div align="center">
   
-  [![Eduarda Vieira's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gpassos01&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Gabriel Passos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gpassos01&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <img src="https://streak-stats.demolab.com?user=gpassos01&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
   <img src="https://github-profile-trophy.vercel.app?username=gpassos01&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
