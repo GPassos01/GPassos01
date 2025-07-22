@@ -5,22 +5,12 @@
 
 ## Sobre mim
 
+
 - 🎓 Graduando em Ciências da Computação na UNESP.
 - 📚 Estudando: Sistemas Embarcados, C/C++, Python, Desenvolvimento Fullstack(spring/react) e Kotlin.
-- 🌍 Explorando novas formas de fazer a diferença.
-
----
+- 🔬 Desenvolvendo uma pesquisa em IoT e Visão Computacional
+- 🌍 Explorando novas formas de fazer a diferença
 <br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GPassos01/GPassos01/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GPassos01/GPassos01/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GPassos01/GPassos01/output/pacman-contribution-graph.svg">
-</picture>
-
-###
----
-
 
 
 ## ⭐ GitHub Stats
@@ -41,6 +31,7 @@
 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<!-- <img alt="mario coding" align="right" width="400px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*0N8CVKix7OGfBDsgh9DzrQ.gif"> -->
 
 <p align="left"> 
   Desenvolvo uma pesquisa científica com ESP32-CAM na area de IoT com visão computacional gerando soluções para monitoramento e prevenção de enchentes urbanas. Tenho, ainda, estudado paralelamente <strong>JavaScript</strong>, com foco em <strong>React.js</strong> para o front-end e <strong>Spring Boot</strong> para o back-end. Também venho explorando tecnologias como <strong>Kotlin</strong>, <strong>PostgreSQL</strong>, <strong>MySQL</strong> e <strong>Docker</strong>, aplicando esses conhecimentos em projetos acadêmicos e pessoais que fazem parte do meu portfólio. <br><br>
@@ -66,13 +57,23 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gpassos01.gpassos01&left_color=darkviolet&right_color=orchid" width="80" />
 </div>
 
-<div align="center">
+<!--div align="center">
   
   [![Gabriel Passos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gpassos01&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   <img src="https://streak-stats.demolab.com?user=gpassos01&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
   <img src="https://github-profile-trophy.vercel.app?username=gpassos01&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
-</div>
+</div-->
 
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GPassos01/GPassos01/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GPassos01/GPassos01/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GPassos01/GPassos01/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+---
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
