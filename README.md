@@ -1,15 +1,16 @@
 <h1 align="center"> Olá, meu nome é Gabriel!</h1>
 <p align="center">
   Ciêntista Computacional em formação, comprometido em criar soluções inovadoras e com propósito. <br>
+  Estagiário em Desenvolvimento de Chatbots generativos e Engenharia de IA <br>
 </p>
 
 ## Sobre mim
 
 
 - 🎓 Graduando em Ciências da Computação na UNESP.
-- 📚 Estudando: Sistemas Embarcados, C/C++, Python, Desenvolvimento Fullstack(spring/react) e Kotlin.
-- 🔬 Desenvolvendo uma pesquisa em IoT e Visão Computacional
-- 🌍 Explorando novas formas de fazer a diferença
+- 📚 Estudando: IA, Python, ChatBots e Desenvolvimento Fullstack(spring/react).
+- 🔬 Desenvolvendo uma pesquisa em ORAN
+- 🌍 Estagiário na CI&T
 <br>
 
 
@@ -34,7 +35,7 @@
 <!-- <img alt="mario coding" align="right" width="400px" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*0N8CVKix7OGfBDsgh9DzrQ.gif"> -->
 
 <p align="left"> 
-  Desenvolvo uma pesquisa científica com ESP32-CAM na area de IoT com visão computacional gerando soluções para monitoramento e prevenção de enchentes urbanas. Tenho, ainda, estudado paralelamente <strong>JavaScript</strong>, com foco em <strong>React.js</strong> para o front-end e <strong>Spring Boot</strong> para o back-end. Também venho explorando tecnologias como <strong>Kotlin</strong>, <strong>PostgreSQL</strong>, <strong>MySQL</strong> e <strong>Docker</strong>, aplicando esses conhecimentos em projetos acadêmicos e pessoais que fazem parte do meu portfólio. <br><br>
+  Desenvolvi uma pesquisa científica com ESP32-CAM na area de IoT com visão computacional gerando soluções para monitoramento e prevenção de enchentes urbanas. Tenho, ainda, desenvolvido outra pesquisa em <strong>ORAN</strong>, com foco em <strong>TestBeds com srsRAN</strong>. Também estagio com tecnologias como <strong>Python</strong>, <strong>Chatbots generativos</strong>, <strong>Orquestração e Engenharia de IAs</strong>, aplicando esses conhecimentos em projetos acadêmicos, pessoais e profissionais que fazem parte do meu portfólio. <br><br>
   Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
 </p>
 
